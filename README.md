@@ -1,7 +1,7 @@
 # Forecasting-Ice-Cream-Sales
 Using MySQL and Python, I split the data into train and test sets with a test size of 20% and am currently using this data to build a model that predicts sales revenue with 97.55% accuracy when the end-user inputs a temperature.
 
-OBECTIVE:
+OBJECTIVE:
  This project finds the relationship between the independent variable (outside air temperatures) and its effect on the dependent variable (daily revenue). The goal of this project is to build a model that predicts the daily revenue ($) depending on the temperature (Celsius) outside.
 
 
