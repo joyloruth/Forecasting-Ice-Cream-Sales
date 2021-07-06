@@ -96,13 +96,13 @@ I split the data into train and test sets with a test size of 20%.
 
 The regression score is 97.5%. Currently work on a user-end model that predicts sales revenue with 97.55% accuracy when temperature is input using this prediction model. 
 
-![image](https://user-images.githubusercontent.com/46979334/124639894-50402e00-de52-11eb-8801-ef4375c7f42f.png)
 ![image](https://user-images.githubusercontent.com/46979334/124639908-559d7880-de52-11eb-97a4-e343bbc599a2.png)
 
 ![image](https://user-images.githubusercontent.com/46979334/124639938-5b935980-de52-11eb-87b2-9555f791576e.png)
 ![image](https://user-images.githubusercontent.com/46979334/124639956-60580d80-de52-11eb-9dcc-bf8dd0aac455.png)
 
-![image](https://user-images.githubusercontent.com/46979334/124639982-65b55800-de52-11eb-9330-b4baae0bc268.png)
+![image](https://user-images.githubusercontent.com/46979334/124643706-00179a80-de57-11eb-8872-52429d380fb9.png)
+
 
 
 # RESOURCES
